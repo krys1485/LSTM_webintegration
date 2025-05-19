@@ -3,7 +3,7 @@
 ## Web Page
 
 <br>
-<img src="C:\Users\kuenga choden\Desktop\Practical\lstm\Screenshot 2025-05-19 225515.png" width="300" height="300" /> 
+<img src="static\img\Screenshot 2025-05-19 225515.png" width="300" height="300" /> 
 <br>
 
 ### Description
@@ -13,5 +13,5 @@ The image provided below is a web app that takes a sequence of numbers that are 
 ## Runserver
 
 <br>
-<img src="C:\Users\kuenga choden\Desktop\Practical\lstm\Screenshot 2025-05-19 225459.png" width="300" height="300" /> 
+<img src="static\img\Screenshot 2025-05-19 225459.png" width="300" height="300" /> 
 <br>
